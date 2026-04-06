@@ -4,8 +4,7 @@ Este repositório contém o desenvolvimento de algoritmos estruturados para a re
 
 ## 🧠 O que aprendi
 
-Através destes exercícios, desenvolvi a habilidade de decompor tarefas complexas em instruções menores e processáveis. O foco principal foi garantir que cada ação necessária para atingir um objetivo fosse documentada de forma clara e ordenada, utilizando os conceitos de **Início** e **Fim** para delimitar o escopo de cada processo[cite: 2, 14, 15, 35, 45, 145].
-
+Através destes exercícios, desenvolvi a habilidade de decompor tarefas complexas em instruções menores e processáveis. O foco principal foi garantir que cada ação necessária para atingir um objetivo fosse documentada de forma clara e ordenada, utilizando os conceitos de **Início** e **Fim** para delimitar o escopo de cada processo
 ## 🛠️ Metodologias e Conceitos Aplicados
 
 * **Pseudocódigo:** Escrita de algoritmos em linguagem natural estruturada
